@@ -664,7 +664,13 @@ footer{
     .project-container{
         justify-content: center;
     }
+    .service-container{
+        justify-content: center;
+    }
     .project-box{
+        width: 80%;
+    }
+    .service-box{
         width: 80%;
     }
 
@@ -677,6 +683,9 @@ footer{
         font-size: 40px;
     }
     .project-box{
+        width: 100%;
+    }
+    .service-box{
         width: 100%;
     }
     .form-inputs{
